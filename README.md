@@ -2,7 +2,7 @@
 <br>
 ### ✨ Hello, my name is Fabio Henrique! ✨
 - Computer Engineering student at the Faculty of Informatics and Administration Paulista - FIAP.
-- I really like programming and information technology..
+- I really like programming and information technology.
 
 ## Languages e Tools 💻
 <div style="display: inline">

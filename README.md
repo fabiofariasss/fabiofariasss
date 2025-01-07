@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/c2390b0f-5063-4e63-8302-d9395ed5c6a5)
+<br>
 ### ✨ Hello, my name is Fabio Henrique! ✨
 - Computer Engineering student at the Faculty of Informatics and Administration Paulista - FIAP.
 - I really like programming and information technology..

@@ -21,51 +21,6 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________
 
-### 🚀 Repositórios em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🩺 <a href="https://github.com/fabiofariasss/backend-consultas">Sistema de Consultas</a></h4>
-      <p>Sistema completo para agendamento de consultas com backend em Java e interfaces em TypeScript (<a href="https://github.com/fabiofariasss/sistema-consultas-typescript">web</a> e <a href="https://github.com/fabiofariasss/sistema-consultas-mobile">mobile</a>).</p>
-      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=0070F3" />
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0070F3" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕷️ <a href="https://github.com/fabiofariasss/stellarcraft-web-scraper">StellarCraft Web Scraper</a></h4>
-      <p>Web scraper desenvolvido em Python para extração, tratamento e estruturação automatizada de dados.</p>
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0070F3" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏫 <a href="https://github.com/fabiofariasss/fiap-room-reservation-system">Room Reservation System</a></h4>
-      <p>Sistema em Python para gerenciamento e reserva de salas de estudo, com validação de horários e persistência.</p>
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0070F3" />
-      <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=0070F3" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/fabiofariasss/Case---Global-Solution-Space-Connect">Space Connect</a></h4>
-      <p>Aplicação interativa desenvolvida com foco em conexão e experiência do usuário.</p>
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0070F3" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💙 <a href="https://github.com/fabiofariasss/empath-pulse">Empath Pulse</a></h4>
-      <p>Aplicação moderna em TypeScript com foco em interface responsiva e experiência intuitiva.</p>
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0070F3" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚜 <a href="https://github.com/fabiofariasss/John-Deere-Uber---FIAP">John Deere Solution</a></h4>
-      <p>Projeto de solução tecnológica voltado ao agronegócio e mobilidade inteligente.</p>
-      <img src="https://img.shields.io/badge/Solution-0D1117?style=flat-square&logoColor=0070F3" />
-    </td>
-  </tr>
-</table>
-
-__________________________________________________________________________________________________________________________________________
-
 ### 📊 Estatísticas no GitHub
 
 <div align="center">

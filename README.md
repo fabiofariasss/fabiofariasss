@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0070F3&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Fabio+Henrique+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Seja+bem-vindo!+%3A%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabiofariasss&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
-</p>
-
 </div>
 
 __________________________________________________________________________________________________________________________________________

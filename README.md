@@ -81,7 +81,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/fabio-henrique-santos-farias-221076274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0070F3"></a>
+<a href="https://www.linkedin.com/in/f%C3%A1bio-farias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0070F3"></a>
 <a href="mailto:fabio.farias178@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=0070F3"></a>
 <a href="https://www.instagram.com/_fabiofariass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0070F3"></a>
 

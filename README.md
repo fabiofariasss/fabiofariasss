@@ -24,8 +24,8 @@ ________________________________________________________________________________
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fabiofariasss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0070F3&icon_color=0070F3&text_color=c9d1d9" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofariasss&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=0070F3&text_color=c9d1d9" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=fabiofariasss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0070F3&icon_color=0070F3&text_color=c9d1d9" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabiofariasss&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=0070F3&text_color=c9d1d9" />
 </div>
 
 __________________________________________________________________________________________________________________________________________
